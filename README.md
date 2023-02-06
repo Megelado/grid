@@ -8,7 +8,6 @@
 
 - html
 - css
-- js
 
 ## Contact-me
 

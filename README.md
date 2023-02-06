@@ -1,6 +1,8 @@
 # grid
 
-[clique para ver](https://megelado.github.io/jump-and-win/)
+![preview](./github/preview-grid.png)
+
+[clique para ver](https://megelado.github.io/grid/)
 
 ## Tecnologias
 

@@ -105,8 +105,8 @@ h3 {
   .mobile {
     grid-area: mobile;
     display: inline-block;
-    width: 60%;
-    height: 80%;
+    width: 80vw;
+    height: 50vh;
   }
   .img-top {
     display: none;
@@ -120,6 +120,7 @@ h3 {
     visibility: hidden;
     position: fixed;
     right: 0px;
+    padding: 40px;
     background-color: white;
     place-content: right; 
     
